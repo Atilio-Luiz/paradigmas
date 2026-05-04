@@ -26,4 +26,9 @@
 ## [06 - Restrições e recursão](conceitos/06-funcional-recursao.md)
 - [06.1-funcional-recursao.kt](exercicios/06.1-funcional-recursao.kt)
 
+---
 
+# Orientado a Objetos (em Kotlin)
+
+## [07 - Exercícios Básicos - Classes]
+- [07.1-poo-calculadora.kt](exercicios/poo/calculadora/README.md)
